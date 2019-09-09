@@ -1,0 +1,16 @@
+.container {
+    margin-top: 40px;
+}
+
+#tamanhoContainer {
+    width: 500px;
+}
+#btnCadastro {
+    text-align: right;
+}
+#botao {
+    background-color: #E50F87;
+    color: #ffffff;
+    font-weight: bold;
+
+}
