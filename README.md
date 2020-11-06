@@ -1,7 +1,8 @@
 # U_CRUD_working
-Sistema de CRUD curso UDEMY 
 
-Verão Beta 0.0.1 
+CRUD-RPG 
+
+Verão Beta 1.0 
 
 Sistema em PHP, Bootstrap, MySQL.
 
